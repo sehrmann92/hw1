@@ -13,7 +13,7 @@ int main()
 	{
 		fib+=fib1;
 		fib1=fib-fib1;
-		//cout <<fib<<"\n";
+		//cout <<fib<<"\n"<<endl;
 	}
 	cout<<"Die "<<N<<".te Fibonacci-Zahl ist "<<fib<<endl;
 	
